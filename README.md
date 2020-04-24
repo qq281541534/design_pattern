@@ -84,8 +84,3 @@
 ## Behavioral
 
 
-
-
-
-# design_pattern
-# design_pattern
